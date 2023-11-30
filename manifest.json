@@ -1,0 +1,38 @@
+{
+   "author": "Witold Winiarski|wit.winiarski|witw2",
+   "description": "Slack Chrome: By Witold Winiarski | First ever slackline chrome theme",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "manifest_version": 3,
+   "name": "SlackChrome",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 65, 111, 148 ],
+         "ntp_background": [ 163, 195, 236 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 161, 195, 235 ]
+      },
+      "images": {
+         "theme_ntp_attribution": "credits.png",
+         "theme_ntp_background": "slackchrome.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom left",
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4"
+}
