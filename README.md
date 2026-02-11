@@ -13,13 +13,35 @@
 * **Custom NTP Assets:** Includes `slackchrome.png` for the New Tab Page and a custom attribution logo.
 * **Modern Standards:** Built using **Manifest V3**.
 
-## 📸 Preview
+## 📊 Global Usage & Statistics
 
-The theme is configured with specific properties to maintain its unique look:
+SlackChrome is enjoyed by a diverse group of users worldwide. Here is a snapshot of our community as of February 2026:
 
-* **Alignment:** Bottom Left
-* **Repeat:** Repeat
-* **Logo:** Alternate logo enabled for better visibility against the custom background.
+### 🌍 Top Regions
+
+Our largest user bases are currently in:
+
+1. **United States** 🇺🇸
+2. **Poland** 🇵🇱
+3. **Argentina** 🇦🇷
+4. **Canada** 🇨🇦 & **United Kingdom** 🇬🇧
+
+### 🖥️ OS Distribution
+
+The theme is most popular among Windows users, but has a presence across all major desktop platforms:
+
+* **Windows:** 75%
+* **macOS / Linux:** 20%
+* **ChromeOS:** 5%
+
+### 🌐 Language Support
+
+While the theme is universal, it is most widely used by speakers of:
+
+* **English (US & UK)**
+* **Polish**
+* **Spanish**
+* **French**
 
 ## 🛠 Installation
 
